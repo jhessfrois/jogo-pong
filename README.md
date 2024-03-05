@@ -1,6 +1,6 @@
 <p align="center">
   <img alt="Logo Alura" src="https://www.alura.com.br/assets/img/home/alura-logo.1686744881.svg" width="200px" />
-</p>
+</p> 
 
 <p align="center">
 Aplicação desenvolvida no curso ChatGPT e JavaScript da Alura.
